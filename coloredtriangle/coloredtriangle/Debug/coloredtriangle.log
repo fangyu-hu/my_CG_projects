@@ -1,0 +1,6 @@
+﻿  glad.c
+  main.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“glew_static.pdb”(使用“glew32s.lib(glew.obj)”或在“D:\VISUALSTUDIO\source\repos\coloredtriangle\Debug\glew_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  coloredtriangle.vcxproj -> D:\VISUALSTUDIO\source\repos\coloredtriangle\Debug\coloredtriangle.exe

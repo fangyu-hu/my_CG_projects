@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\VISUALSTUDIO\source\repos\Project5_2\glm\glm\core\func_common.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VISUALSTUDIO\source\repos\Project5_2\glm\glm\core\func_common.inl(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VISUALSTUDIO\source\repos\Project5_2\glm\glm\core\func_integer.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Project5_2.vcxproj -> D:\VISUALSTUDIO\source\repos\Project5_2\Debug\Project5_2.exe
